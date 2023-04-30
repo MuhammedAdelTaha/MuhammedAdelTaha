@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🌱 I’m currently learning Front End Track<br>💬 Ask me about Full Stack Development<br>📫 How to reach me: MuhammedAdelTaha@gmail.com<br>
+📫 How to reach me: MuhammedAdelTaha@gmail.com<br>
 
 ## 🌐 Socials:
 
@@ -22,4 +22,4 @@
 
 ---
 
-<!-- [![](https://visitcount.itsvg.in/api?id=MuhammedAdelTaha&icon=0&color=0)](https://visitcount.itsvg.in) -->
+[![](https://visitcount.itsvg.in/api?id=MuhammedAdelTaha&icon=0&color=0)](https://visitcount.itsvg.in)
