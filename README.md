@@ -8,7 +8,7 @@
 [![Personal Website](https://img.shields.io/badge/Website-3693F3?logo=icloud&logoColor=fff)](https://MuhammedAdelTaha.github.io)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MuhammedAdelTaha)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Muhammed_Adel_Taha)
-[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://MuhammedAdelTaha/medium.com)
+[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://MuhammedAdelTaha.medium.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MuhammedAdelTaha)
 
 
