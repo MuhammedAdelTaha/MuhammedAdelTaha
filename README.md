@@ -1,7 +1,7 @@
 # 💫 About Me
 
 📨 How to reach me MuhammedAdelTaha@gmail.com<br>
-📄 View my resume [here](https://drive.google.com/file/d/16jWTw7m3temw2J5pJlQVabFYwtpeFgRu/view?usp=sharing)
+📄 View my resume [here](https://drive.google.com/drive/folders/11qLQdQH7_8fMq-OgqQbqkleNX6ZtYx1p?usp=sharing)
 
 ## 🌐 Socials
 
